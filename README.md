@@ -24,6 +24,10 @@ Let Metro Bundler run in its _own_ terminal. Open a _new_ terminal from the _roo
 
 ### For Android
 
+
+https://github.com/Livingstone17/BGChanger/assets/32388423/db962ec6-128e-4269-bcfd-ebf16fada6b8
+
+
 ```bash
 # using npm
 npm run android
